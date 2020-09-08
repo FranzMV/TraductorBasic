@@ -1,0 +1,13 @@
+C:\Users\fmanz\source\repos\TraductorBasic\TraductorBasic\bin\Debug\netcoreapp3.1\TraductorBasic.exe
+C:\Users\fmanz\source\repos\TraductorBasic\TraductorBasic\bin\Debug\netcoreapp3.1\TraductorBasic.deps.json
+C:\Users\fmanz\source\repos\TraductorBasic\TraductorBasic\bin\Debug\netcoreapp3.1\TraductorBasic.runtimeconfig.json
+C:\Users\fmanz\source\repos\TraductorBasic\TraductorBasic\bin\Debug\netcoreapp3.1\TraductorBasic.runtimeconfig.dev.json
+C:\Users\fmanz\source\repos\TraductorBasic\TraductorBasic\bin\Debug\netcoreapp3.1\TraductorBasic.dll
+C:\Users\fmanz\source\repos\TraductorBasic\TraductorBasic\bin\Debug\netcoreapp3.1\TraductorBasic.pdb
+C:\Users\fmanz\source\repos\TraductorBasic\TraductorBasic\obj\Debug\netcoreapp3.1\TraductorBasic.csprojAssemblyReference.cache
+C:\Users\fmanz\source\repos\TraductorBasic\TraductorBasic\obj\Debug\netcoreapp3.1\TraductorBasic.csproj.CoreCompileInputs.cache
+C:\Users\fmanz\source\repos\TraductorBasic\TraductorBasic\obj\Debug\netcoreapp3.1\TraductorBasic.AssemblyInfoInputs.cache
+C:\Users\fmanz\source\repos\TraductorBasic\TraductorBasic\obj\Debug\netcoreapp3.1\TraductorBasic.AssemblyInfo.cs
+C:\Users\fmanz\source\repos\TraductorBasic\TraductorBasic\obj\Debug\netcoreapp3.1\TraductorBasic.dll
+C:\Users\fmanz\source\repos\TraductorBasic\TraductorBasic\obj\Debug\netcoreapp3.1\TraductorBasic.pdb
+C:\Users\fmanz\source\repos\TraductorBasic\TraductorBasic\obj\Debug\netcoreapp3.1\TraductorBasic.genruntimeconfig.cache
